@@ -1,0 +1,93 @@
+
+
+
+.navbar {
+border-bottom: #00BFFF solid 3px;
+opacity: 0.9;
+}
+
+
+#home-section {
+        background-image: url(img/background-bike-biker-207171.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        opacity: 0.8;
+        min-height: 800px;
+        
+        
+
+}
+
+#home-section h1 {
+        padding-top: 100px;
+        line-height: 5px;
+        color: black;
+        
+        
+}
+
+
+
+
+#home-section .text1 {
+        color: #fff;
+        
+}
+
+#home-section .text2 {
+        color: rgb(209, 54, 54);
+}
+
+#home-section .text3 {
+        color: #000;
+}
+
+
+#home-section .container {
+        padding-top: 50px;
+        
+        
+}
+
+#contact {
+        background: #000;
+        color: #fff;
+
+}
+
+#footer {
+        margin-top: 20px;
+        margin-bottom: -15px;
+}
+
+@media only screen and (max-width: 600px) {
+
+               #home-section .text {
+                margin: 0 auto;
+        }
+}
+
+
+@media only screen and (max-width: 600px) {
+
+        #home-section {
+                background: #778899;
+                min-height: 500px;
+                margin-bottom: 10px;
+        }
+}
+
+
+
+
+
+
+      
+     
+      
+
+
+
+
+
